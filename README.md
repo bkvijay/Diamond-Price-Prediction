@@ -14,4 +14,4 @@ bkvijay.shinyapps.io/Diamond_Price_Predictor/
 
 Click the Below Link for the Rpubs presentation.
 
-http://rpubs.com/vijay_bk/480629
+http://rpubs.com/vijay_bk/480632
