@@ -10,7 +10,7 @@ Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitc
 
 Click the Below Link for the Application.
 
-bkvijay.shinyapps.io/Diamond_Price_Predictor/
+https://bkvijay.shinyapps.io/Diamond_Price_Predictor/
 
 Click the Below Link for the Rpubs presentation.
 
